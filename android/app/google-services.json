@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145335883909",
+    "project_id": "flutterfirebase-ddc4a",
+    "storage_bucket": "flutterfirebase-ddc4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145335883909:android:a9d6bf7fb59d06592931ec",
+        "android_client_info": {
+          "package_name": "com.example.flutterfilrebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDJuP53cX0VhTFjiH1P4ytCuNaWiq4KZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
